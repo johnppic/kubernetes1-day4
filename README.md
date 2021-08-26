@@ -58,14 +58,6 @@ initialized the database with the init job
 
 navigate to the included route to see cockroachdb dashboard
 
-operators
----------
-
-Operators are software extensions to Kubernetes that make use of custom resources to manage applications and their components. Operators follow Kubernetes principles, notably the control loop.
-
-Links
-* [Operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
-
 custom resources
 ----------------
 
@@ -75,6 +67,14 @@ A custom resource is an extension of the Kubernetes API that is not necessarily 
 
 Links
 * [Custom Resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
+
+operators
+---------
+
+Operators are software extensions to Kubernetes that make use of custom resources to manage applications and their components. Operators follow Kubernetes principles, notably the control loop.
+
+Links
+* [Operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
 
 prometheus operator
 -------------------
