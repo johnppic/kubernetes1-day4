@@ -21,6 +21,7 @@ Like a Deployment, a StatefulSet manages Pods that are based on an identical con
 
 Links
 * [StatefulSets](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/)
+* [Deploying a Statefulset](https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set/)
 
 jobs
 ----
