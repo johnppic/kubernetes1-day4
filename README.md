@@ -7,8 +7,8 @@ Topics
 * jobs
 * cockroachdb
 * deploy cockroachdb
-* operators
 * custom resources
+* operators
 * prometheus operator
 * deploy prometheus operator and prometheus
 * certified kubernetes administrator
