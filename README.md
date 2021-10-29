@@ -119,4 +119,4 @@ Links
 wrap up
 -------
 
-You have now had an opprutunity to explore all of the basis of kubernetes. Good luck and hopefully your new experiences and skills will come in handy.
+You have now had an opportunity to explore all of the basis of kubernetes. Good luck and hopefully your new experiences and skills will come in handy.
